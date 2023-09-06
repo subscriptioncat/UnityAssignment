@@ -8,6 +8,8 @@ public class TopDownMovement : MonoBehaviour
 
     private Vector2 _movementDirection = Vector2.zero;
     private Rigidbody2D _rigidbody;
+    //public Animator animWalk;
+    //animWalk.SetBool("isWalk", true);
 
     private void Awake()
     {
