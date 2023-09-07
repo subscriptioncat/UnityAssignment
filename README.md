@@ -14,3 +14,4 @@ Unity 게임 개발 입문 1주차에서 완성한 코드에 추가
 - ArrowController -> 캐릭터게 쏘는 화살 방향을 설정(아직 완성하지 못하여 원하는 방향으로 쏘지 못합니다.)
 
 ![image](https://github.com/subscriptioncat/UnityAssignment/assets/119589973/9784698a-d9eb-4fa0-9183-92a3747420b9)
+![Desktop 2023 09 07 - 11 33 52 03 (3)](https://github.com/subscriptioncat/UnityAssignment/assets/119589973/4f5c42ce-b993-43c2-8d5c-c83de0d07c92)
